@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+}
+
+#container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+Button {
+  margin: 7px;
+  padding: 7;
+  width: 75%
+}
+
+input {
+  margin: 7px;
+  padding: 7;
+  width: 75%
+}
